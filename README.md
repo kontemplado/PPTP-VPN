@@ -8,7 +8,12 @@ Tested on Ubuntu 17.04 (VPS)
 
 
 ## Install
-1. Copy script by using `wget https://raw.githubusercontent.com/saaiful/PPTP-VPN/master/install.sh`
+1. Copy script by using `wget https://raw.githubusercontent.com/kontemplado/PPTP-VPN/master/install.sh`
 2. Run using `sudo bash install.sh`
 3. Script will ask for username and password for VPN, set them correctly
-4. Connect the VPN and Enjoy :)
+4. Connect the VPN and Enjoy.
+
+## Hosting allowed VPN
+
+1. [HostZealot](https://go.kontemplado.com/58lm1)
+2. [Fozzy](https://go.kontemplado.com/42gnn)
