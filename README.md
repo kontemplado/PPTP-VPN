@@ -13,7 +13,5 @@ Tested on Ubuntu 17.04 (VPS)
 3. Script will ask for username and password for VPN, set them correctly
 4. Connect the VPN and Enjoy.
 
-## Hosting allowed VPN
+## [Hosting allowed VPN](https://go.kontemplado.com/eteo7)
 
-1. [HostZealot](https://go.kontemplado.com/58lm1)
-2. [Fozzy](https://go.kontemplado.com/42gnn)
